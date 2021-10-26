@@ -1,0 +1,11 @@
+.active{
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Lucida Sans';
+	background-color: chocolate;
+	-webkit-text-fill-color: black;
+	
+}
+.font{
+	font-family: 'Lucida Sans Regular';
+}
